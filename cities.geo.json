@@ -4,7 +4,9 @@
       "type": "Feature",
       "properties": {
         "name": "新竹市",
-        "name_en": "Hsinchu City"
+        "name_en": "Hsinchu City",
+        "center": "120.9674798, 24.8138287",
+        "place_id": "ChIJ9-datXdKaDQR-x-h4mLoTF4"
       },
       "geometry": {
         "type": "Polygon",
@@ -45,7 +47,9 @@
       "type": "Feature",
       "properties": {
         "name": "嘉义市",
-        "name_en": "Chiayi City"
+        "name_en": "Chiayi City",
+        "center": "120.4491113, 23.4800751",
+        "place_id": "ChIJdQADvTGUbjQRbmls8YZnZjA"
       },
       "geometry": {
         "type": "Polygon",
@@ -109,7 +113,9 @@
       "type": "Feature",
       "properties": {
         "name": "台北市",
-        "name_en": "Taipei City"
+        "name_en": "Taipei City",
+        "center": "121.565427, 25.032964",
+        "place_id": "ChIJi73bYWusQjQRgqQGXK260bw"
       },
       "geometry": {
         "type": "Polygon",
@@ -173,7 +179,9 @@
       "type": "Feature",
       "properties": {
         "name": "新北市",
-        "name_en": "New Taipei City"
+        "name_en": "New Taipei City",
+        "center": "121.4627868, 25.0169826",
+        "place_id": "ChIJX2S2sDhVXTQRwO0gZvoNqVo"
       },
       "geometry": {
         "type": "Polygon",
@@ -260,7 +268,9 @@
       "type": "Feature",
       "properties": {
         "name": "基隆市",
-        "name_en": "Keelung City"
+        "name_en": "Keelung City",
+        "center": "121.7391833, 25.1276033",
+        "place_id": "ChIJlXSDuP1NXTQRaGXyRapr954"
       },
       "geometry": {
         "type": "Polygon",
@@ -283,7 +293,9 @@
       "type": "Feature",
       "properties": {
         "name": "桃园市",
-        "name_en": "Taoyuan City"
+        "name_en": "Taoyuan City",
+        "center": "121.3009798, 24.9936281",
+        "place_id": "ChIJP4bazg49aDQRakg6WFJP5FQ"
       },
       "geometry": {
         "type": "Polygon",
@@ -323,7 +335,9 @@
       "type": "Feature",
       "properties": {
         "name": "宜兰县",
-        "name_en": "Yilan County"
+        "name_en": "Yilan County",
+        "center": "121.7377502, 24.7021073",
+        "place_id": "ChIJWy8jaz3gZzQRrAfTE55Su88"
       },
       "geometry": {
         "type": "Polygon",
@@ -356,7 +370,9 @@
       "type": "Feature",
       "properties": {
         "name": "新竹县",
-        "name_en": "Hsinchu County"
+        "name_en": "Hsinchu County",
+        "center": "121.0177246, 24.8387226",
+        "place_id": "ChIJ1U9noSxBaDQRyR8fDl8UYUA"
       },
       "geometry": {
         "type": "Polygon",
@@ -403,7 +419,9 @@
       "type": "Feature",
       "properties": {
         "name": "苗栗县",
-        "name_en": "Miaoli County"
+        "name_en": "Miaoli County",
+        "center": "120.8214265, 24.560159",
+        "place_id": "ChIJk9NaC4pUaDQRG4hgT-5vqMw"
       },
       "geometry": {
         "type": "Polygon",
@@ -454,7 +472,9 @@
       "type": "Feature",
       "properties": {
         "name": "台中市",
-        "name_en": "Taichung City"
+        "name_en": "Taichung City",
+        "center": "120.6736482, 24.1477358",
+        "place_id": "ChIJ7yJ5-d8XaTQRf0SmfuQ-Uoc"
       },
       "geometry": {
         "type": "Polygon",
@@ -533,7 +553,9 @@
       "type": "Feature",
       "properties": {
         "name": "花莲县",
-        "name_en": "Hualien County"
+        "name_en": "Hualien County",
+        "center": "121.6015714, 23.9871589",
+        "place_id": "ChIJAxIodMGzaDQRcx386sY33lo"
       },
       "geometry": {
         "type": "Polygon",
@@ -625,7 +647,9 @@
       "type": "Feature",
       "properties": {
         "name": "台东县",
-        "name_en": "Taitung County"
+        "name_en": "Taitung County",
+        "center": "121.07137, 22.797245",
+        "place_id": "ChIJAQQqpdK4bzQR__KzdeRxaM8"
       },
       "geometry": {
         "type": "Polygon",
@@ -733,7 +757,9 @@
       "type": "Feature",
       "properties": {
         "name": "屏东县",
-        "name_en": "Pingtung County"
+        "name_en": "Pingtung County",
+        "center": "120.5487597, 22.5519759",
+        "place_id": "ChIJgSJ04U7ZcTQRVYOms5RRIe0"
       },
       "geometry": {
         "type": "Polygon",
@@ -824,7 +850,9 @@
       "type": "Feature",
       "properties": {
         "name": "高雄市",
-        "name_en": "Kaohsiung City"
+        "name_en": "Kaohsiung City",
+        "center": "120.3014353, 22.6272784",
+        "place_id": "ChIJG3R6elFDbjQRNypzVEqiJkg"
       },
       "geometry": {
         "type": "Polygon",
@@ -924,7 +952,9 @@
       "type": "Feature",
       "properties": {
         "name": "台南市",
-        "name_en": "Tainan City"
+        "name_en": "Tainan City",
+        "center": "120.2270277, 22.9997281",
+        "place_id": "ChIJE_4_lcx8bjQRTnbcpapMf9Q"
       },
       "geometry": {
         "type": "Polygon",
@@ -1017,7 +1047,9 @@
       "type": "Feature",
       "properties": {
         "name": "嘉义县",
-        "name_en": "Chiayi County"
+        "name_en": "Chiayi County",
+        "center": "120.4491113, 23.4800751",
+        "place_id": "ChIJUaq7v1frbjQRNXYqVp3u5Zc"
       },
       "geometry": {
         "type": "Polygon",
@@ -1172,7 +1204,9 @@
       "type": "Feature",
       "properties": {
         "name": "云林县",
-        "name_en": "Yunlin County"
+        "name_en": "Yunlin County",
+        "center": "120.4313373, 23.7092033",
+        "place_id": "ChIJQfPHcye6bjQRlSrRA3zE5Ho"
       },
       "geometry": {
         "type": "Polygon",
@@ -1276,7 +1310,9 @@
       "type": "Feature",
       "properties": {
         "name": "彰化县",
-        "name_en": "Changhua County"
+        "name_en": "Changhua County",
+        "center": "120.5161352, 24.0517963",
+        "place_id": "ChIJdRR5tR5JaTQRJ380ulhL6NY"
       },
       "geometry": {
         "type": "Polygon",
@@ -1352,7 +1388,9 @@
       "type": "Feature",
       "properties": {
         "name": "南投县",
-        "name_en": "Nantou County"
+        "name_en": "Nantou County",
+        "center": "120.9718638, 23.9609981",
+        "place_id": "ChIJrUldGqrWaDQR2vYXX6n7SBM"
       },
       "geometry": {
         "type": "Polygon",
