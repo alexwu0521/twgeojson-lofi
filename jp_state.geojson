@@ -456,7 +456,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Kyoto Prefecture", "place_id": "ChIJYRsf-SB0_18ROJWxOMJ7Clk", "name": "京都府", "center": "135.7555968, 35.0212466"}
+    "properties": {
+      "name_en": "Kyoto Prefecture",
+      "place_id": "ChIJYRsf-SB0_18ROJWxOMJ7Clk",
+      "name": "京都府",
+      "center": "135.7555968, 35.0212466"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -884,7 +889,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Saga Prefecture", "place_id": "ChIJVVXx4qHSQTUR2vEeH2zUCzA", "name": "佐贺县", "center": "130.2997942, 33.2494416"}
+    "properties": {
+      "name_en": "Saga Prefecture",
+      "place_id": "ChIJVVXx4qHSQTUR2vEeH2zUCzA",
+      "name": "佐贺县",
+      "center": "130.2997942, 33.2494416"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -2029,7 +2039,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Kumamoto Prefecture", "place_id": "ChIJpzy0q613QDUR8fFMMDKVF_I", "name": "熊本县", "center": "130.741667, 32.789827"}
+    "properties": {
+      "name_en": "Kumamoto Prefecture",
+      "place_id": "ChIJpzy0q613QDUR8fFMMDKVF_I",
+      "name": "熊本县",
+      "center": "130.741667, 32.789827"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -2962,7 +2977,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Kagawa Prefecture", "place_id": "ChIJr363rNTcUzURsdqbibLWgS0", "name": "香川县", "center": "134.0434436, 34.3401491"}
+    "properties": {
+      "name_en": "Kagawa Prefecture",
+      "place_id": "ChIJr363rNTcUzURsdqbibLWgS0",
+      "name": "香川县",
+      "center": "134.0434436, 34.3401491"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -3571,7 +3591,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Aichi Prefecture", "place_id": "ChIJ5zKTSdW6BGARp0EVGF2mX-s", "name": "爱知县", "center": "136.9065647, 35.1801883"}
+    "properties": {
+      "name_en": "Aichi Prefecture",
+      "place_id": "ChIJ5zKTSdW6BGARp0EVGF2mX-s",
+      "name": "爱知县",
+      "center": "136.9065647, 35.1801883"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -3815,7 +3840,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Tochigi Prefecture", "place_id": "ChIJ7RWXa1VwH2ARB9AguZ5FZW0", "name": "栃木县", "center": "139.8835651, 36.565725"}
+    "properties": {
+      "name_en": "Tochigi Prefecture",
+      "place_id": "ChIJ7RWXa1VwH2ARB9AguZ5FZW0",
+      "name": "栃木县",
+      "center": "139.8835651, 36.565725"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -3989,7 +4019,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Yamanashi Prefecture", "place_id": "ChIJIe5Ck3LjG2ARqm6fj-ToBHM", "name": "山梨县", "center": "138.5684486, 35.6641575"}
+    "properties": {
+      "name_en": "Yamanashi Prefecture",
+      "place_id": "ChIJIe5Ck3LjG2ARqm6fj-ToBHM",
+      "name": "山梨县",
+      "center": "138.5684486, 35.6641575"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -4210,7 +4245,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Shiga Prefecture", "place_id": "ChIJfRcKhFR_AWAR0Ih82zbkEkQ", "name": "滋贺县", "center": "135.8685899, 35.0045306"}
+    "properties": {
+      "name_en": "Shiga Prefecture",
+      "place_id": "ChIJfRcKhFR_AWAR0Ih82zbkEkQ",
+      "name": "滋贺县",
+      "center": "135.8685899, 35.0045306"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -4488,7 +4528,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Gunma Prefecture", "place_id": "ChIJWa42yIVgHmARknJxiWg1mdc", "name": "群马县", "center": "139.0604061, 36.3906675"}
+    "properties": {
+      "name_en": "Gunma Prefecture",
+      "place_id": "ChIJWa42yIVgHmARknJxiWg1mdc",
+      "name": "群马县",
+      "center": "139.0604061, 36.3906675"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -5412,7 +5457,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Miyagi Prefecture", "place_id": "ChIJcdzg-92SiF8RraQHUTi5b84", "name": "宫城县", "center": "140.8721, 38.2688373"}
+    "properties": {
+      "name_en": "Miyagi Prefecture",
+      "place_id": "ChIJcdzg-92SiF8RraQHUTi5b84",
+      "name": "宫城县",
+      "center": "140.8721, 38.2688373"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -5868,7 +5918,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Shizuoka Prefecture", "place_id": "ChIJL8OwjM62G2ARVRZv3-tm-vw", "name": "静冈县", "center": "138.3830845, 34.9771201"}
+    "properties": {
+      "name_en": "Shizuoka Prefecture",
+      "place_id": "ChIJL8OwjM62G2ARVRZv3-tm-vw",
+      "name": "静冈县",
+      "center": "138.3830845, 34.9771201"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -6145,7 +6200,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Ibaraki Prefecture", "place_id": "ChIJF8In71sYImARgMV4m4P7Spo", "name": "茨城县", "center": "140.4467935, 36.3418112"}
+    "properties": {
+      "name_en": "Ibaraki Prefecture",
+      "place_id": "ChIJF8In71sYImARgMV4m4P7Spo",
+      "name": "茨城县",
+      "center": "140.4467935, 36.3418112"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -8063,7 +8123,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Okinawa Prefecture", "place_id": "ChIJ51ur7mJw9TQR79H9hnJhuzU", "name": "冲绳县", "center": "127.680932, 26.212401"}
+    "properties": {
+      "name_en": "Okinawa Prefecture",
+      "place_id": "ChIJ51ur7mJw9TQR79H9hnJhuzU",
+      "name": "冲绳县",
+      "center": "127.680932, 26.212401"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -8359,7 +8424,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Yamagata Prefecture", "place_id": "ChIJbeLoh3fsi18RXo9kabDE3OY", "name": "山形县", "center": "140.3636333, 38.2404355"}
+    "properties": {
+      "name_en": "Yamagata Prefecture",
+      "place_id": "ChIJbeLoh3fsi18RXo9kabDE3OY",
+      "name": "山形县",
+      "center": "140.3636333, 38.2404355"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -9058,7 +9128,12 @@
       ]
     },
     "type": "Feature",
-    "properties":{"name_en": "Wakayama Prefecture", "place_id": "ChIJ1wKhtPIEB2ARnU_gb_EzSNQ", "name": "和歌山县", "center": "135.1675086, 34.2259867"}
+    "properties": {
+      "name_en": "Wakayama Prefecture",
+      "place_id": "ChIJ1wKhtPIEB2ARnU_gb_EzSNQ",
+      "name": "和歌山县",
+      "center": "135.1675086, 34.2259867"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -13444,7 +13519,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Nagasaki Prefecture", "place_id": "ChIJC46vsRChaTURlUoIqR4qlSQ", "name": "长崎县", "center": "129.8675983, 32.7498382"}
+    "properties": {
+      "name_en": "Nagasaki Prefecture",
+      "place_id": "ChIJC46vsRChaTURlUoIqR4qlSQ",
+      "name": "长崎县",
+      "center": "129.8675983, 32.7498382"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -13845,7 +13925,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Akita Prefecture", "place_id": "ChIJv_Eu0V7rj18REhxcYOz7fZo", "name": "秋田县", "center": "140.1023643, 39.7186135"}
+    "properties": {
+      "name_en": "Akita Prefecture",
+      "place_id": "ChIJv_Eu0V7rj18REhxcYOz7fZo",
+      "name": "秋田县",
+      "center": "140.1023643, 39.7186135"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -14674,7 +14759,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Okayama Prefecture", "place_id": "ChIJh5W24jhmVDURU20vGB0GIdI", "name": "冈山县", "center": "133.9344057, 34.6617511"}
+    "properties": {
+      "name_en": "Okayama Prefecture",
+      "place_id": "ChIJh5W24jhmVDURU20vGB0GIdI",
+      "name": "冈山县",
+      "center": "133.9344057, 34.6617511"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -15412,7 +15502,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Fukuoka Prefecture", "place_id": "ChIJJbF-93qBQTURTThRSvsPopc", "name": "福冈县", "center": "130.418297, 33.6065756"}
+    "properties": {
+      "name_en": "Fukuoka Prefecture",
+      "place_id": "ChIJJbF-93qBQTURTThRSvsPopc",
+      "name": "福冈县",
+      "center": "130.418297, 33.6065756"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -15798,7 +15893,12 @@
       ]
     },
     "type": "Feature",
-    "properties":{"name_en": "Gifu Prefecture", "place_id": "ChIJi8OICvLxAmARZ9bM7q0UJ68", "name": "岐阜县", "center": "136.722291, 35.391227"}
+    "properties": {
+      "name_en": "Gifu Prefecture",
+      "place_id": "ChIJi8OICvLxAmARZ9bM7q0UJ68",
+      "name": "岐阜县",
+      "center": "136.722291, 35.391227"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -16274,7 +16374,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Aomori Prefecture", "place_id": "ChIJR60vIL2bm18Ro_kApp-uBak", "name": "青森县", "center": "140.7399984, 40.8243077"}
+    "properties": {
+      "name_en": "Aomori Prefecture",
+      "place_id": "ChIJR60vIL2bm18Ro_kApp-uBak",
+      "name": "青森县",
+      "center": "140.7399984, 40.8243077"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -16739,7 +16844,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Osaka Prefecture", "place_id": "ChIJ13DMKmvoAGARbVkfgUj_maM", "name": "大阪府", "center": "135.5196609, 34.6862971"}
+    "properties": {
+      "name_en": "Osaka Prefecture",
+      "place_id": "ChIJ13DMKmvoAGARbVkfgUj_maM",
+      "name": "大阪府",
+      "center": "135.5196609, 34.6862971"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -17154,7 +17264,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Nagano Prefecture", "place_id": "ChIJa4zJGCMBHWARlAu_BE8rXAI", "name": "长野县", "center": "138.1809557, 36.6512986"}
+    "properties": {
+      "name_en": "Nagano Prefecture",
+      "place_id": "ChIJa4zJGCMBHWARlAu_BE8rXAI",
+      "name": "长野县",
+      "center": "138.1809557, 36.6512986"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -17892,7 +18007,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Ōita Prefecture", "place_id": "ChIJk0fY45VcRDUR4r42cPK3Fz8", "name": "大分县", "center": "131.6126189, 33.2381718"}
+    "properties": {
+      "name_en": "Ōita Prefecture",
+      "place_id": "ChIJk0fY45VcRDUR4r42cPK3Fz8",
+      "name": "大分县",
+      "center": "131.6126189, 33.2381718"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -19095,7 +19215,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Mie Prefecture", "place_id": "ChIJY0FHSvU9BGARKIc4ff5ynkI", "name": "三重县", "center": "136.5085883, 34.7302829"}
+    "properties": {
+      "name_en": "Mie Prefecture",
+      "place_id": "ChIJY0FHSvU9BGARKIc4ff5ynkI",
+      "name": "三重县",
+      "center": "136.5085883, 34.7302829"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -20504,7 +20629,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Hiroshima Prefecture", "place_id": "ChIJa_O3GdGJUDURv90VFtIkjqU", "name": "广岛县", "center": "132.4596225, 34.3965603"}
+    "properties": {
+      "name_en": "Hiroshima Prefecture",
+      "place_id": "ChIJa_O3GdGJUDURv90VFtIkjqU",
+      "name": "广岛县",
+      "center": "132.4596225, 34.3965603"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -22768,7 +22898,12 @@
       ]
     },
     "type": "Feature",
-    "properties":{"name_en": "Hokkaido", "place_id": "ChIJi4hsnyBZn18RjwPOT1bDPBw", "name": "北海道", "center": "141.346807, 43.064615"}
+    "properties": {
+      "name_en": "Hokkaido",
+      "place_id": "ChIJi4hsnyBZn18RjwPOT1bDPBw",
+      "name": "北海道",
+      "center": "141.346807, 43.064615"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -23676,7 +23811,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Hyōgo Prefecture", "place_id": "ChIJoa4nX2HyVDURoQquLKTzHh8", "name": "兵库县", "center": "135.1830706, 34.6912688"}
+    "properties": {
+      "name_en": "Hyōgo Prefecture",
+      "place_id": "ChIJoa4nX2HyVDURoQquLKTzHh8",
+      "name": "兵库县",
+      "center": "135.1830706, 34.6912688"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -24026,7 +24166,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Chiba Prefecture", "place_id": "ChIJEZUb1l-bImARvnvg_9t3thw", "name": "千叶县", "center": "140.1233063, 35.6050574"}
+    "properties": {
+      "name_en": "Chiba Prefecture",
+      "place_id": "ChIJEZUb1l-bImARvnvg_9t3thw",
+      "name": "千叶县",
+      "center": "140.1233063, 35.6050574"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -24250,7 +24395,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Toyama Prefecture", "place_id": "ChIJSca2CRSS918Rc1GBWMBBk3w", "name": "富山县", "center": "137.2113382, 36.6952907"}
+    "properties": {
+      "name_en": "Toyama Prefecture",
+      "place_id": "ChIJSca2CRSS918Rc1GBWMBBk3w",
+      "name": "富山县",
+      "center": "137.2113382, 36.6952907"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -25615,7 +25765,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Tokyo", "place_id": "ChIJ51cu8IcbXWARiRtXIothAS4", "name": "东京", "center": "139.650311, 35.676192"}
+    "properties": {
+      "name_en": "Tokyo",
+      "place_id": "ChIJ51cu8IcbXWARiRtXIothAS4",
+      "name": "东京",
+      "center": "139.650311, 35.676192"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -25791,7 +25946,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Saitama Prefecture", "place_id": "ChIJ6QF7R40qGWARbFKAqmcS2f4", "name": "埼玉县", "center": "139.6488487, 35.8569991"}
+    "properties": {
+      "name_en": "Saitama Prefecture",
+      "place_id": "ChIJ6QF7R40qGWARbFKAqmcS2f4",
+      "name": "埼玉县",
+      "center": "139.6488487, 35.8569991"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -27241,7 +27401,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Yamaguchi Prefecture", "place_id": "ChIJ_Y9adhnHRDURcOJUU8K8DEk", "name": "山口县", "center": "131.4706493, 34.1859563"}
+    "properties": {
+      "name_en": "Yamaguchi Prefecture",
+      "place_id": "ChIJ_Y9adhnHRDURcOJUU8K8DEk",
+      "name": "山口县",
+      "center": "131.4706493, 34.1859563"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -27639,7 +27804,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Fukushima Prefecture", "place_id": "ChIJL9XcbYEEIGARXEbW0MGmHzQ", "name": "福岛县", "center": "140.4675514, 37.7502986"}
+    "properties": {
+      "name_en": "Fukushima Prefecture",
+      "place_id": "ChIJL9XcbYEEIGARXEbW0MGmHzQ",
+      "name": "福岛县",
+      "center": "140.4675514, 37.7502986"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -28098,7 +28268,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Ishikawa Prefecture", "place_id": "ChIJ7xq8wV5-8V8RtJoYjRM81Es", "name": "石川县", "center": "136.6255726, 36.5946816"}
+    "properties": {
+      "name_en": "Ishikawa Prefecture",
+      "place_id": "ChIJ7xq8wV5-8V8RtJoYjRM81Es",
+      "name": "石川县",
+      "center": "136.6255726, 36.5946816"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -28514,7 +28689,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Fukui Prefecture", "place_id": "ChIJEb6scKhV_18RYA7nHjFfIQo", "name": "福井县", "center": "136.2215269, 36.0651779"}
+    "properties": {
+      "name_en": "Fukui Prefecture",
+      "place_id": "ChIJEb6scKhV_18RYA7nHjFfIQo",
+      "name": "福井县",
+      "center": "136.2215269, 36.0651779"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -30157,7 +30337,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Ehime Prefecture", "place_id": "ChIJraqWR5CVTzUR272f78CTlP8", "name": "爱媛县", "center": "132.7656808, 33.8416238"}
+    "properties": {
+      "name_en": "Ehime Prefecture",
+      "place_id": "ChIJraqWR5CVTzUR272f78CTlP8",
+      "name": "爱媛县",
+      "center": "132.7656808, 33.8416238"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -30397,7 +30582,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Nara Prefecture", "place_id": "ChIJ0yeFNyrHBmARcsHp9gNgR-o", "name": "奈良县", "center": "135.8327421, 34.6853345"}
+    "properties": {
+      "name_en": "Nara Prefecture",
+      "place_id": "ChIJ0yeFNyrHBmARcsHp9gNgR-o",
+      "name": "奈良县",
+      "center": "135.8327421, 34.6853345"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -31336,7 +31526,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Shimane Prefecture", "place_id": "ChIJocsETn0DWzURzBYpE2fXNC0", "name": "岛根县", "center": "133.0504997, 35.4722952"}
+    "properties": {
+      "name_en": "Shimane Prefecture",
+      "place_id": "ChIJocsETn0DWzURzBYpE2fXNC0",
+      "name": "岛根县",
+      "center": "133.0504997, 35.4722952"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -32027,7 +32222,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Iwate Prefecture", "place_id": "ChIJIzoJ7dCQhV8RbEB_6H6BLGY", "name": "岩手县", "center": "141.1526839, 39.7036194"}
+    "properties": {
+      "name_en": "Iwate Prefecture",
+      "place_id": "ChIJIzoJ7dCQhV8RbEB_6H6BLGY",
+      "name": "岩手县",
+      "center": "141.1526839, 39.7036194"
+    }
   }, {
     "geometry": {
       "type": "Polygon",
@@ -32286,7 +32486,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Tottori Prefecture", "place_id": "ChIJB0-MsELXVTUR7pLgQAxBLzs", "name": "鸟取县", "center": "134.237736, 35.503891"}
+    "properties": {
+      "name_en": "Tottori Prefecture",
+      "place_id": "ChIJB0-MsELXVTUR7pLgQAxBLzs",
+      "name": "鸟取县",
+      "center": "134.237736, 35.503891"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -32754,7 +32959,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Tokushima Prefecture", "place_id": "ChIJszfXrltNUjURDDHPZPlj3f0", "name": "德岛县", "center": "134.5593601, 34.0657179"}
+    "properties": {
+      "name_en": "Tokushima Prefecture",
+      "place_id": "ChIJszfXrltNUjURDDHPZPlj3f0",
+      "name": "德岛县",
+      "center": "134.5593601, 34.0657179"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -34815,7 +35025,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Kagoshima Prefecture", "place_id": "ChIJA4AW0cJbGDURcNZa6PLRr40", "name": "鹿儿岛县", "center": "130.5579779, 31.5601464"}
+    "properties": {
+      "name_en": "Kagoshima Prefecture",
+      "place_id": "ChIJA4AW0cJbGDURcNZa6PLRr40",
+      "name": "鹿儿岛县",
+      "center": "130.5579779, 31.5601464"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -35394,7 +35609,12 @@
       ]
     },
     "type": "Feature",
-    "properties":{"name_en": "Niigata Prefecture", "place_id": "ChIJATtK2PaFjF8RSPPdfITZi7Q", "name": "新泻县", "center": "139.0230946, 37.9025518"}
+    "properties": {
+      "name_en": "Niigata Prefecture",
+      "place_id": "ChIJATtK2PaFjF8RSPPdfITZi7Q",
+      "name": "新泻县",
+      "center": "139.0230946, 37.9025518"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -36069,7 +36289,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Kōchi Prefecture", "place_id": "ChIJa2Hq0TSpSDURow2-nqQtVKA", "name": "高知县", "center": "133.5310786, 33.5597062"}
+    "properties": {
+      "name_en": "Kōchi Prefecture",
+      "place_id": "ChIJa2Hq0TSpSDURow2-nqQtVKA",
+      "name": "高知县",
+      "center": "133.5310786, 33.5597062"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -36565,7 +36790,12 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Miyazaki Prefecture", "place_id": "ChIJYfx_FietODURKhlreMr3-Cg", "name": "宫崎县", "center": "131.4238934, 31.9110956"}
+    "properties": {
+      "name_en": "Miyazaki Prefecture",
+      "place_id": "ChIJYfx_FietODURKhlreMr3-Cg",
+      "name": "宫崎县",
+      "center": "131.4238934, 31.9110956"
+    }
   }, {
     "geometry": {
       "type": "MultiPolygon",
@@ -37035,6 +37265,11 @@
       ]
     },
     "type": "Feature",
-    "properties": {"name_en": "Kanagawa Prefecture", "place_id": "ChIJq9Rn-8dUGGARViMnQtCc9xE", "name": "神奈川县", "center": "139.6423446, 35.4475073"}
+    "properties": {
+      "name_en": "Kanagawa Prefecture",
+      "place_id": "ChIJq9Rn-8dUGGARViMnQtCc9xE",
+      "name": "神奈川县",
+      "center": "139.6423446, 35.4475073"
+    }
   }]
 }
