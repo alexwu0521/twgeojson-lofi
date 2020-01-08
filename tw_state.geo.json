@@ -552,8 +552,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "花莲县",
-        "name_en": "Hualien County",
+        "name": "花莲市",
+        "name_en": "Hualien City",
         "center": "121.6015714, 23.9871589",
         "place_id": "ChIJAxIodMGzaDQRcx386sY33lo"
       },
