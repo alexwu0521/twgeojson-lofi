@@ -14,7 +14,7 @@ if __name__ == '__main__':
     new_coords = []
     if fe['geometry']['type'] == 'Polygon':
       for linering in coords:
-        if len(linering) < 20:
+        if len(linering) < 40:
           new_coords.append(linering)
           continue
         nl = []
